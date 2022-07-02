@@ -1,0 +1,3 @@
+Hello. My Name is Anggy Ferdiawan.
+
+This is my first python code. Thanks
