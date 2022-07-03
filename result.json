@@ -1,1 +1,15 @@
-{"id": 1, "name": "ameer", "username": "ameerkhan", "email": "ameerkhan@gmail.com", "address": {"street": "jl. Ameer", "suite": "Apt. 878", "city": "Wakanda", "zipcode": "65341", "geographic": {"lat": "656551", "lon": "-656854"}}}
+{
+    "id": 1,
+    "name": "Anggy", 
+    "username": "AnggyTesting", 
+    "email": "AnggyTesting@gmail.com", 
+    "address": {"street": "jl. in Aja ya", 
+        "suite": "Apt. 878", 
+        "city": "Wakanda", 
+        "zipcode": "65341", 
+        "geographic": {
+            "lat": "656551", 
+            "lon": "-656854"
+        }
+    }
+}

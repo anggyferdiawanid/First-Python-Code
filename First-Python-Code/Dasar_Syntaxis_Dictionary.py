@@ -1,10 +1,10 @@
 users = {
     "id": 1,
-    "name": "ameer",
-    "username": "ameerkhan",
-    "email": "ameerkhan@gmail.com",
+    "name": "Anggy",
+    "username": "AnggyTesting",
+    "email": "AnggyTesting@gmail.com",
     "address": {
-        "street": "jl. Ameer",
+        "street": "jl. in Aja Ya",
         "suite": "Apt. 878",
         "city": "Wakanda",
         "zipcode": "65341",
@@ -14,7 +14,9 @@ users = {
         }
     }
 }
-
+"""
+Show information
+"""
 print(users)
 print(users["id"])
 print(users["name"])
@@ -25,7 +27,11 @@ print(users["address"]["street"])
 print(users["address"]["geographic"])
 print(users["address"]["geographic"]["lat"])
 
-print("\nUbah JSON")
+
+"""
+Create a JSON file
+"""
+print("\nCreate JSON")
 import json
 result = json.dumps(users)
 print(result)
